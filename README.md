@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dis-ease-20
 - 👀 I’m interested in Cybersecurity, web Development and networking.
 - 🌱 I’m currently learning MongoDB, Networking.
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Python and ML( Open Source )
 - 📫 How to reach me (Mail me @)...pvinitak001@gmail.com
 
 <!---
